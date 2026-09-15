@@ -84,8 +84,8 @@ Detalhes da operação de saque:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/dioni-alves-moreira/ATM.git
+   cd ATM
    ```
 
 3. Execute o script:
