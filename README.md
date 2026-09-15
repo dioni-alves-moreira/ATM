@@ -163,10 +163,10 @@ DATA/HORA: 31/08/2026 14:32:10
 
 ## 👤 Autor
 
-Desenvolvido por **[seu nome]** — estudante de [seu curso] na UNICSUL.
+Desenvolvido por **Dioni Alves Moreira** — estudante de Engenharia de Software na UNICSUL.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dioni-alves-moreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dioni-alves-moreira/)
 
 ## 📄 Licença
 
